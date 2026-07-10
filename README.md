@@ -1,16 +1,38 @@
-# Beautiful Calculator
+# 🧮 Calculator
 
-Open `index.html` in your browser to use the calculator. Features:
+A responsive calculator built using HTML, CSS, and JavaScript that performs basic arithmetic operations through an intuitive user interface.
 
-- Basic arithmetic (+ − × ÷)
-- Percent, negate, backspace, clear (AC)
-- Keyboard support (numbers, + - * /, Enter, Backspace, Esc)
-- Responsive and modern glassmorphic UI
+## Features
 
-To serve locally (optional):
+- ➕ Addition
+- ➖ Subtraction
+- ✖ Multiplication
+- ➗ Division
+- 🧹 Clear display
+- 📱 Responsive design
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## How to Run
+
+1. Clone this repository.
+2. Open `index.html` in your browser.
+3. Start performing calculations.
+
+## Project Structure
 
 ```
-# from the project folder
-python -m http.server 8000
-# then open http://localhost:8000
+Calculator/
+│── index.html
+│── styles.css
+│── script.js
+│── README.md
 ```
+
+## Author
+
+**Saksham Begad**
